@@ -175,9 +175,11 @@ if __name__ == "__main__":
 
 <h2> Output</h2>
 
-<img width="336" height="276" alt="Screenshot 2026-09-07 142955" src="https://github.com/user-attachments/assets/b1a1bc33-98fb-4539-87ef-71b61e3d1d9e" />
 
 <img width="591" height="775" alt="Screenshot 2026-09-07 142643" src="https://github.com/user-attachments/assets/5c36e833-1a49-41a9-a3f2-888ac63bc1a0" />
+
+<img width="336" height="276" alt="Screenshot 2026-09-07 142955" src="https://github.com/user-attachments/assets/b1a1bc33-98fb-4539-87ef-71b61e3d1d9e" />
+
 
 <h2> Result </h2>
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
