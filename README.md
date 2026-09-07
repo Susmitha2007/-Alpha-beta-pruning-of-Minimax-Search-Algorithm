@@ -173,12 +173,13 @@ if __name__ == "__main__":
     main()
 ```
 <h2> Output </h2>
-<div>
+
+<div style = "display: block;">
     <img width="958" height="87" alt="image" src="https://github.com/user-attachments/assets/b4a8cc2e-12db-4a01-bedf-642852385324" />
 
 </div>
 
-<div>
+<div style="display: block;">
     <img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/736a152f-8928-4b2b-b205-8ec04d66dc62"/>
 
 </div>
