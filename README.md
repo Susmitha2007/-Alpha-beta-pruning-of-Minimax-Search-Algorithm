@@ -172,17 +172,12 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<h2> Output </h2>
 
-<div style = "display: block;">
-    <img width="958" height="87" alt="image" src="https://github.com/user-attachments/assets/b4a8cc2e-12db-4a01-bedf-642852385324" />
+<h3> Output</h3>
 
-</div>
+<img width="336" height="276" alt="Screenshot 2026-09-07 142955" src="https://github.com/user-attachments/assets/b1a1bc33-98fb-4539-87ef-71b61e3d1d9e" />
 
-<div style="display: block;">
-    <img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/736a152f-8928-4b2b-b205-8ec04d66dc62"/>
-
-</div>
+<img width="591" height="775" alt="Screenshot 2026-09-07 142643" src="https://github.com/user-attachments/assets/5c36e833-1a49-41a9-a3f2-888ac63bc1a0" />
 
 <h2> Result </h2>
 
