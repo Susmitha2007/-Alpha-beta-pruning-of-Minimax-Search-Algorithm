@@ -173,10 +173,7 @@ if __name__ == "__main__":
     main()
 ```
 <h2> Output </h2>
-
 <img width="591" height="775" alt="Screenshot 2026-09-07 142643" src="https://github.com/user-attachments/assets/485fa837-c268-4372-a197-02ae74ec34af" />
-
-
 <img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/736a152f-8928-4b2b-b205-8ec04d66dc62" />
 
 <h2> Result </h2>
